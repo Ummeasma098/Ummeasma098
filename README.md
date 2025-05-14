@@ -7,9 +7,9 @@ Passionate about data-driven insights 📊
 
 ### Let's Connect 🔗
 
-- 📧 Email: [ummeasma@email.com](mailto:ummeasma@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/umme-asma](https://www.linkedin.com/in/umme-asma)  
-- 📂 Portfolio: [ummeasma_portfolio](https://github.com/ummeasma/ummeasma_portfolio)
+- 📧 Email: [ummeasma7867@gmail.com](mailto:ummeasma7867@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/umme-asma-744592256](https://www.linkedin.com/in/umme-asma-744592256/)  
+- 📂 Portfolio: [ummeasma098.github.io/ummeasma_portfolio](https://ummeasma098.github.io/ummeasma_portfolio/)
 
 ---
 
