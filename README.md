@@ -1,7 +1,8 @@
 # Hey there, I'm Asma 👋🏻
 
-**Data Analytics Enthusiast** | Python • SQL • Power BI  
-Passionate about data-driven insights 📊
+**Enthusiastic about data and analytics**  
+I’m currently working with Python, SQL, and Power BI 📊 to uncover insights.
+Expanding my skills in statistics and visual storytelling to make data speak.
 
 ---
 
