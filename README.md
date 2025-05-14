@@ -1,8 +1,8 @@
 # Hey there, I'm Asma 👋🏻
 
 **Enthusiastic about data and analytics**  
-I’m currently working with Python, SQL, and Power BI 📊 to uncover insights.
-Expanding my skills in statistics and visual storytelling to make data speak.
+I’m currently working with **Python**, **SQL**, and **Power BI** 📊 to uncover insights.<br>
+Expanding my skills in **statistics** and **visual storytelling** to make data speak.
 
 ---
 
